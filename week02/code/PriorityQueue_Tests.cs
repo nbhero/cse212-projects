@@ -23,9 +23,9 @@ public class PriorityQueueTests
     }
 
     [TestMethod]
-    // Scenario: Add items with the same priority.
-    // Expected Result: Items with the same priority follow FIFO order.
-    // Defect(s) Found: Queue was not preserving FIFO order for equal priorities.
+    // Scenario: 
+    // Expected Result: 
+    // Defect(s) Found: 
     public void TestPriorityQueue_2()
     {
         var priorityQueue = new PriorityQueue();
