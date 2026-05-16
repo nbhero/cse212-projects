@@ -6,10 +6,9 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 public class PriorityQueueTests
 {
     [TestMethod]
-    // Scenario: Add items with different priorities.
-    // Expected Result: Items are removed from highest priority to lowest priority.
-    // Defect(s) Found: The last item in the queue was not checked for highest priority.
-    // The item was not removed from the queue after dequeue.
+    // Scenario: 
+    // Expected Result: 
+    // Defect(s) Found: 
     public void TestPriorityQueue_1()
     {
         var priorityQueue = new PriorityQueue();
